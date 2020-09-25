@@ -1,6 +1,6 @@
 <p align="center">
   <br />
-  <img width="100" src="https://kor-ui.com/assets/favicon_light.png" alt="Kor Logo">
+  <img width="100" src="https://cdn-images-1.medium.com/fit/c/200/200/1*2RYaNNTSGrXwNaDlj_BHQQ@2x.png" alt="Kor Logo">
   <br />
   <br />
 </p>
