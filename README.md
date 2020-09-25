@@ -55,7 +55,9 @@
 
 ## Starters & Themes
 
-- Under Construction
+- [Angular Sample](https://stackblitz.com/edit/kor-ui-angular) - Sample of an Angular app using Kor
+- [Angular Sample](https://stackblitz.com/edit/kor-ui-react) - Sample of a React app using Kor
+- [Angular Sample](https://stackblitz.com/edit/kor-ui-vue) - Sample of a Vue app using Kor
 
 ## Open-Source Projects
 
