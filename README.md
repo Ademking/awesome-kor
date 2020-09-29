@@ -36,7 +36,7 @@
 - 💙 [Website](https://kor-ui.com/) - Official Kor UI website.
 - 💙 [Repository](https://github.com/kor-ui/kor) - Official Kor UI repository.
 - [Theming with Kor UI](https://levelup.gitconnected.com/theming-with-kor-ui-1a843b27bbda) - Theming with Kor UI
-
+- [Building a dev.to clone using Kor UI](https://medium.com/javascript-in-plain-english/building-a-dev-to-clone-using-kor-ui-8eb9347cf3b6)
 ## IDE Extensions
 
 - Under Construction
