@@ -58,7 +58,7 @@
 - [Angular Sample](https://stackblitz.com/edit/kor-ui-angular) - Sample of an Angular app using Kor
 - [React Sample](https://stackblitz.com/edit/kor-ui-react) - Sample of a React app using Kor
 - [Vue Sample](https://stackblitz.com/edit/kor-ui-vue) - Sample of a Vue app using Kor
-- [Twitch, Github & Spotify themes](https://dev.to/eduferfer/kor-ui-themes-1-twitch-github-spotify-2i8e)
+- [Twitch, Github & Spotify themes](https://dev.to/eduferfer/kor-ui-themes-1-twitch-github-spotify-2i8e) - Kor UI themes: Twitch, Github, Spotify
 
 ## Open-Source Projects
 
